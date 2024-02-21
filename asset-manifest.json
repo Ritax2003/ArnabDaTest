@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ArnabDaTest/static/css/main.feb1b2a6.css",
+    "main.js": "/ArnabDaTest/static/js/main.f5465e56.js",
+    "static/media/lov.png": "/ArnabDaTest/static/media/lov.052f3152d41830f5d1e3.png",
+    "static/media/gallerytop.jpg": "/ArnabDaTest/static/media/gallerytop.1f6b3dc6a7eb2e46aa63.jpg",
+    "static/media/mainabt.png": "/ArnabDaTest/static/media/mainabt.2b735773a5e5c265ed22.png",
+    "static/media/member bgground.png": "/ArnabDaTest/static/media/member bgground.bc65f8b1cbdfc3653046.png",
+    "static/media/top view.jpeg": "/ArnabDaTest/static/media/top view.6118dd5c8cd6d809de8b.jpeg",
+    "static/media/vaps2.jpg": "/ArnabDaTest/static/media/vaps2.ed9efbd4585937d032bc.jpg",
+    "static/media/getintouch.jpg": "/ArnabDaTest/static/media/getintouch.a894a039eb94612e7c59.jpg",
+    "static/media/vaps main.png": "/ArnabDaTest/static/media/vaps main.e898e6071532630b058c.png",
+    "static/media/vaps4.jpg": "/ArnabDaTest/static/media/vaps4.b13ea9a289f3117693c4.jpg",
+    "static/media/vaps1.jpg": "/ArnabDaTest/static/media/vaps1.b55c5125f89aa3d11e35.jpg",
+    "static/media/vaps5.jpg": "/ArnabDaTest/static/media/vaps5.9ae1aa455aacc14dfaf2.jpg",
+    "static/media/structure.png": "/ArnabDaTest/static/media/structure.85a880bfcc94553b248e.png",
+    "static/media/aboutbg.jpeg": "/ArnabDaTest/static/media/aboutbg.8f4ccac792e09384acd5.jpeg",
+    "static/media/vaps3.jpg": "/ArnabDaTest/static/media/vaps3.8f4ccac792e09384acd5.jpg",
+    "static/media/rameshsir.png": "/ArnabDaTest/static/media/rameshsir.a8868a10e6ef472a6ed6.png",
+    "static/media/ivymam.png": "/ArnabDaTest/static/media/ivymam.d58405addad8972e87f7.png",
+    "static/media/chirenjeb.jpg": "/ArnabDaTest/static/media/chirenjeb.2fcbd8c64d033f975ccc.jpg",
+    "static/media/arnab pl main.jpg": "/ArnabDaTest/static/media/arnab pl main.6bb4c6335b3b2279a5b1.jpg",
+    "static/media/aniket.jpg": "/ArnabDaTest/static/media/aniket.3db56dc5e9432d1b2f43.jpg",
+    "static/media/mainlogo.png": "/ArnabDaTest/static/media/mainlogo.7f53306b9a66e71a8a04.png",
+    "static/media/arnab ch.jpg": "/ArnabDaTest/static/media/arnab ch.d0fb7d6526968cd01d12.jpg",
+    "index.html": "/ArnabDaTest/index.html",
+    "main.feb1b2a6.css.map": "/ArnabDaTest/static/css/main.feb1b2a6.css.map",
+    "main.f5465e56.js.map": "/ArnabDaTest/static/js/main.f5465e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb1b2a6.css",
+    "static/js/main.f5465e56.js"
+  ]
+}
